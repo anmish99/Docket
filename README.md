@@ -12,9 +12,10 @@ Website Demo
 1)Start
 ![alt tag](https://github.com/anmish99/Docket/blob/main/Desktop/todo_v1/demo/1.PNG) 
 
+
 2)Adding
-![alt tag](https://github.com/anmish99/Docket/https://github.com/anmish99/Docket/blob/main/Desktop/todo_v1/demo/2.PNG)
+![alt tag](https://github.com/anmish99/Docket/blob/main/Desktop/todo_v1/demo/2.PNG)
 
 
 3)Deleting
-![alt tag](https://github.com/anmish99/Docket/https://github.com/anmish99/Docket/blob/main/Desktop/todo_v1/demo/3.PNG)
+![alt tag](https://github.com/anmish99/Docket/blob/main/Desktop/todo_v1/demo/3.PNG)
