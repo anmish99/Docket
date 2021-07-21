@@ -9,5 +9,6 @@ Add Item - Task can be added to the list using + button.
 Deleting tasks - Just click on the checklist and the task gets deleted automatically. 
 
 Website Demo 
+![alt tag](https://github.com/anmish99/Docket/blob/main/Desktop/todo_v1/demo/1.PNG) 
 
 
